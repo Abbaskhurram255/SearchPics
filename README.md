@@ -1,1 +1,1 @@
-- # [SearchPics] (https://abbaskhurram255.github.io)
+- # [SearchPics] (https://abbaskhurram255.github.io/SearchPics)
